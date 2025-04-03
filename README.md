@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PRADA1-py
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C++
